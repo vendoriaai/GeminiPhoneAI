@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gemini Phone AI</string>
+    
+    <!-- Main Activity -->
+    <string name="app_subtitle">AI-Powered Phone Assistant</string>
+    <string name="permissions_title">Permissions</string>
+    <string name="permissions_checking">Checking…</string>
+    <string name="permissions_granted">✓ All permissions granted</string>
+    <string name="permissions_required">⚠ Permissions required</string>
+    <string name="grant_button">Grant</string>
+    
+    <string name="dialer_title">Default Dialer</string>
+    <string name="dialer_checking">Checking…</string>
+    <string name="dialer_set">✓ Set as default dialer</string>
+    <string name="dialer_not_set">⚠ Not default dialer</string>
+    <string name="set_button">Set</string>
+    
+    <string name="api_title">Gemini API</string>
+    <string name="api_not_configured">Not configured</string>
+    <string name="api_configured">✓ API key configured</string>
+    <string name="api_required">⚠ API key required</string>
+    <string name="configure_button">Configure</string>
+    
+    <string name="test_connection">Test Gemini Connection</string>
+    <string name="phone_number_hint">Phone Number</string>
+    <string name="call_with_ai">Call with AI Assistant</string>
+    <string name="status_ready">Ready</string>
+    
+    <string name="settings">Settings</string>
+    <string name="help">Help</string>
+    
+    <!-- API Key Dialog -->
+    <string name="api_key_title">Gemini API Key</string>
+    <string name="api_key_message">Enter your Gemini API key. Get one from https://aistudio.google.com/apikey</string>
+    <string name="api_key_hint">API Key</string>
+    <string name="api_key_privacy">Your API key is stored locally and never shared.</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="get_api_key">Get API Key</string>
+    
+    <!-- Help Dialog -->
+    <string name="help_title">How to Use</string>
+    <string name="help_content">1. Grant all required permissions\n2. Set the app as default dialer\n3. Configure your Gemini API key\n4. Test the connection to Gemini\n5. Enter a phone number and tap \'Call with AI\'\n\nThe AI assistant will:\n• Auto-answer incoming calls\n• Handle conversations naturally\n• Process voice in real-time\n\nFor support, check the README or project documentation.</string>
+    <string name="got_it">Got it</string>
+    
+    <!-- Permission Dialog -->
+    <string name="permissions_dialog_title">Permissions Required</string>
+    <string name="permissions_dialog_message">This app needs all permissions to function properly. Please grant them in Settings.</string>
+    <string name="open_settings">Open Settings</string>
+    
+    <!-- Status Messages -->
+    <string name="status_testing_connection">Testing Gemini connection…</string>
+    <string name="status_connected">✓ Connected to Gemini successfully!</string>
+    <string name="status_connection_failed">✗ Connection failed: %1$s</string>
+    <string name="status_api_key_saved">API key saved</string>
+    <string name="status_calling">Calling: %1$s</string>
+    <string name="status_already_default">Already default dialer</string>
+    
+    <!-- Error Messages -->
+    <string name="error_phone_number_empty">Please enter a phone number</string>
+    <string name="error_permission_denied">Call permission not granted</string>
+    <string name="error_api_key_missing">Please configure your API key first</string>
+    <string name="error_call_failed">Error: %1$s</string>
+    
+    <!-- Notifications -->
+    <string name="notification_channel_name">Phone Call Service</string>
+    <string name="notification_channel_description">Notifications for ongoing phone calls with AI assistance</string>
+    <string name="notification_ongoing_call">AI Phone Call Active</string>
+    <string name="notification_processing">Processing conversation with AI…</string>
+</resources>
