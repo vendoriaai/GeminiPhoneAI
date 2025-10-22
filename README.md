@@ -1,12 +1,5 @@
 # Gemini Phone AI - Android App
 
-[![GitHub](https://img.shields.io/badge/github-vendoriaai%2FGeminiPhoneAI-blue)](https://github.com/vendoriaai/GeminiPhoneAI)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Android](https://img.shields.io/badge/Platform-Android-green.svg)](https://www.android.com/)
-[![API](https://img.shields.io/badge/API-23%2B-brightgreen.svg)](https://android-arsenal.com/api?level=23)
-
-**Created by [@bananbenbadr](https://github.com/bananbenbadr) | Vendoria AI**
-
 An Android application that integrates Google's Gemini AI to handle phone calls with real-time voice conversation capabilities. The app automatically processes incoming and outgoing calls using AI-powered natural language processing.
 
 ## Features
@@ -226,24 +219,6 @@ For issues, questions, or suggestions:
 - Android Telecom framework
 - OkHttp for WebSocket communication
 - Material Design components
-
-## Author
-
-**[@bananbenbadr](https://github.com/bananbenbadr)**
-- Lead Developer & Creator
-- Vendoria AI
-
-## Contributors
-
-See [CONTRIBUTORS.md](CONTRIBUTORS.md) for the full list of contributors to this project.
-
-Want to contribute? Check out our [Contributing Guidelines](CONTRIBUTORS.md#how-to-contribute)!
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-Copyright © 2025 [bananbenbadr](https://github.com/bananbenbadr)
 
 ---
 
